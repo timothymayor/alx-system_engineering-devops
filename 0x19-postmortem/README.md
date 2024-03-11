@@ -4,9 +4,8 @@ About 03:00 West African Time (WAT) here in Nigeria, with the release of ALX's S
 
 ## Debugging Process
 
-Bug debugger Bamidele (Lexxyla... as in my actual initials... made that up on the spot, pretty
-good, huh?) encountered the issue upon opening the project and being, well, instructed to
-address it, roughly 19:20 PST. He promptly proceeded to undergo solving the problem.
+Bug debugger Maxwell encountered the issue upon opening the project and being, well, instructed to
+address it, roughly 04:30 WAT. He promptly proceeded to undergo solving the problem.
 
 1. Checked running processes using `ps aux`. Two `apache2` processes - `root` and `www-data` -
 were properly running.
