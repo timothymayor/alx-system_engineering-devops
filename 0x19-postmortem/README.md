@@ -56,5 +56,4 @@ Note that in response to this error, I wrote a Puppet manifest
 to automate fixing of any such identitical errors should they occur in the future. The manifest
 replaces any `phpp` extensions in the file `/var/www/html/wp-settings.php` with `php`.
 
-But of course, it will never occur again, because we're programmers, and we never make
-errors! :wink:
+But of course, this was a fantastic experience. Errors will always occur and are part of a programmers life... We eat bugs for energy :wink:
